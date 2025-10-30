@@ -9,6 +9,6 @@
 # Insights
 
 # Autora
-Anna Beatriz
+Beatriz Lopes
 
 # Referência

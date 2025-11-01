@@ -18,7 +18,7 @@ imagens: Contém imagens dos códigos.
 
 O AWS CloudFormation é um serviço da Amazon Web Services (AWS) que permite criar, configurar e gerenciar recursos da AWS automaticamente, usando código.
 
-Em outras palavras: Em vez de criar manualmente recursos como instâncias EC2, buckets S3 ou bancos de dados RDS pelo console, você escreve um arquivo de configuração (em YAML ou JSON) — chamado de template e o CloudFormation monta toda a infraestrutura pra você.
+Em outras palavras: Em vez de criar manualmente recursos como instâncias EC2, buckets S3 ou bancos de dados RDS pelo console, você escreve um arquivo de configuração (em YAML ou JSON), chamado de template e o CloudFormation monta toda a infraestrutura pra você.
 
 ### Vantagens CloudFormation
 
@@ -28,6 +28,14 @@ Em outras palavras: Em vez de criar manualmente recursos como instâncias EC2, b
 * Integração com outros serviços AWS: como EC2, S3, RDS, IAM, Lambda, VPC, entre outros.
 
 # Desafio:
+
+Neste desafio foi utilizado os seguintes templates:
+
+1- YAML
+
+2- YAML
+
+3- YAML
 
 # Insights
 

@@ -6,7 +6,7 @@ Este repositório possui o desafio: implementar sua primeira Stack com AWS Cloud
 
 # Material Presente no repositório
 
-README.md: Explicação detalhada do desafio e anotações do módulo de Gerenciamento de Instâncias EC2.
+README.md: Explicação de qual é o desafio, anotações e insights adquiridos no 8° módulo.
 
 anotações extras: Contém anotações.
 

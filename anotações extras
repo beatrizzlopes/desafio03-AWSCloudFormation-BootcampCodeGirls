@@ -1,1 +1,22 @@
-..
+#Anotações extras
+
+### AWS CloudFormation, os modelos (templates) - YAML ou JSON
+
+No AWS CloudFormation, os modelos (templates) que definem a infraestrutura como código. Podem ser escritos em YAML ou JSON.
+Esses dois formatos servem para a mesma função, mas têm diferenças de sintaxe. 👇
+
+- YAML (Yet Another Markup Language)
+
+É o formato mais usado atualmente no CloudFormation, por ser mais legível e limpo.
+
+Usa indentação (espaços) para organizar a estrutura (sem chaves {} ou colchetes []).
+
+Suporta comentários (# comentário).
+
+- JSON (JavaScript Object Notation)
+
+Foi o formato original do CloudFormation.
+
+É mais verboso e difícil de ler, principalmente em templates grandes.
+
+Não permite comentários.

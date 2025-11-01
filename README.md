@@ -4,13 +4,15 @@
 
 Este repositório possui o desafio: implementar sua primeira Stack com AWS CloudFormation, minhas anotações e insights adquiridos durante o 8° módulo do bootcamp Santander Code Girls com a DIO, focado em computação em nuvem com AWS.
 
+# Objetivo do desafio:
+
+Repositório organizado contendo anotações e insights adquiridos durante a prática.
+
 # Material Presente no repositório
 
 README.md: Explicação de qual é o desafio, anotações e insights adquiridos no desafio.
 
 anotações extras: Contém anotações.
-
-imagens: Contém imagens dos códigos.
 
 # Anotações
 
@@ -26,16 +28,6 @@ Em outras palavras: Em vez de criar manualmente recursos como instâncias EC2, b
 * Automação: elimina tarefas manuais e reduz erros.
 * Gerenciamento simplificado: permite atualizar e excluir recursos em conjunto.
 * Integração com outros serviços AWS: como EC2, S3, RDS, IAM, Lambda, VPC, entre outros.
-
-# Desafio:
-
-Neste desafio foi utilizado os seguintes templates:
-
-1- YAML
-
-2- YAML
-
-3- YAML
 
 # Insights
 

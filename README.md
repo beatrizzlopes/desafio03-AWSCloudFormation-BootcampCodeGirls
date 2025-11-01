@@ -39,6 +39,12 @@ Neste desafio foi utilizado os seguintes templates:
 
 # Insights
 
+### A importância da stack com firewall
+
+Durante o processo pude perceber que a segurança na nuvem é construída em camadas, Cada uma dessas camadas tem um papel fundamendal. 
+Uma que se descatou entre elas foi stack com firewall, pois enquanto uma stack comum apenas cria os recursos  principais, a stack com
+firewall adiciona camadas extras de proteção.
+
 # Autora
 Beatriz Lopes
 

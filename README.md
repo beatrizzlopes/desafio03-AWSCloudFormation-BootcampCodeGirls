@@ -2,7 +2,7 @@
 
 # Introdução
 
-Este repositório possui o desafio: implementar sua primeira Stack com AWS CloudFormation, minhas anotações e insights adquiridos durante o 8° módulo do bootcamp Santander Code Girls com a DIO, focado em computação em nuvem com AWS.
+Este repositório possui o desafio implementar sua primeira Stack com AWS CloudFormation, minhas anotações e insights adquiridos durante o 8° módulo do bootcamp Santander Code Girls com a DIO, focado em computação em nuvem com AWS.
 
 # Objetivo do desafio:
 

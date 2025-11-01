@@ -37,6 +37,10 @@ Durante o processo pude perceber que a segurança na nuvem é construída em cam
 Uma que se descatou entre elas foi stack com firewall, pois enquanto uma stack comum apenas cria os recursos  principais, a stack com
 firewall adiciona camadas extras de proteção.
 
+### Escalabilidade com segurança 
+
+Também percebi que infraestrutura automatizada permite crescer sem comprometer a proteção, isso é escalabilidade com segurança.
+
 # Autora
 Beatriz Lopes
 
